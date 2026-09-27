@@ -1,0 +1,53 @@
+### JOB DESCRIPTION ###
+Role: Senior AI & Backend Infrastructure Engineer
+Location: Remote (US / Canada)
+Department: Core Platform & AI Intelligence
+
+About the Role:
+We are seeking an experienced Senior AI & Backend Infrastructure Engineer to lead the design and deployment of scalable, low-latency microservices and LLM-powered evaluation pipelines. You will architect high-throughput APIs, optimize distributed database performance, and maintain automated container orchestration pipelines.
+
+Required Qualifications (Mandatory):
+- 5+ years of production experience in Python backend engineering (FastAPI, asyncio).
+- Hands-on experience deploying, monitoring, and orchestrating containerized microservices in production using Kubernetes (EKS / GKE) and Docker.
+- Proven expertise with high-throughput relational databases (PostgreSQL query performance tuning, schema design, and indexing).
+- Direct experience integrating Large Language Models (LLMs) via APIs (Gemini, Claude, or OpenAI) with strict structured output enforcement.
+
+Preferred Qualifications (Nice-to-Have):
+- Experience with event-driven streaming platforms such as Apache Kafka or AWS Kinesis.
+- Proficiency in Infrastructure-as-Code (Terraform, Helm charts).
+- Familiarity with enterprise MLOps lifecycles, evaluation pipelines, and vector databases (Pinecone, Qdrant, pgvector).
+- Track record of mentoring junior engineers and leading system design reviews.
+
+---
+
+### CANDIDATE RESUME ###
+Alex Morgan
+Email: alex.morgan.dev@example.com | GitHub: github.com/alexmorgan-ai | LinkedIn: linkedin.com/in/alexmorgandev
+
+Professional Summary:
+Senior Backend and AI Systems Engineer with 6+ years of production experience architecting scalable distributed microservices, LLM application pipelines, and cloud infrastructure. Strong track record of improving API latency, managing Kubernetes clusters, and tuning relational databases under heavy enterprise load.
+
+Technical Skills:
+- Languages: Python (FastAPI, asyncio, Celery), Go, SQL (PostgreSQL), Bash
+- Cloud & Infrastructure: AWS (EKS, S3, RDS, Lambda), Kubernetes, Docker, Helm, Terraform
+- AI & LLM Systems: Google Gemini API, OpenAI API, LangChain, Pydantic Structured Outputs, Prompt Architecture, RAG
+- Data & Messaging: PostgreSQL (schema design, indexing, pgvector), Redis, Kafka
+- CI/CD & Testing: GitHub Actions, Pytest, Docker Compose, Prometheus, Grafana
+
+Professional Experience:
+
+Staff / Senior Platform Engineer | Apex Intelligence Labs (2022 - Present)
+- Architected and deployed 12+ Python (FastAPI) microservices on AWS EKS serving 15,000 requests/sec with a p99 latency < 45ms.
+- Built an enterprise LLM evaluation and screening pipeline utilizing Google Gemini structured outputs with strict Pydantic V2 schema validation and automated rate-limit retry failover.
+- Led migration of on-premises workloads to Kubernetes (EKS) using Terraform and Helm, achieving 99.98% service uptime.
+- Optimized core PostgreSQL queries and connection pooling, reducing database CPU utilization by 40% and query latency by 65%.
+- Mentored a squad of 5 backend engineers, conducting architecture reviews and defining coding best practices.
+
+Backend Software Engineer | CloudScale Technologies (2019 - 2022)
+- Designed asynchronous RESTful APIs using Python, FastAPI, and Celery for background asynchronous task processing.
+- Containerized legacy services with Docker and assisted with the initial deployment to Kubernetes clusters.
+- Configured Kafka event topics to asynchronously handle user analytics and notification delivery across 4 microservices.
+- Managed database migrations and indexing strategies for PostgreSQL databases containing over 50M records.
+
+Education:
+- B.S. in Computer Science | University of Waterloo (2019)
